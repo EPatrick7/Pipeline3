@@ -30,3 +30,6 @@ Unlockable/Nonstandard Tiles:
 ___
 __Game Details__
 There is 100 levels in total, with the 100th being a large gauntlet type level with 7 parts. Every 11 levels is a "Boss Level" meaning it has a much higher difficulty compared to the previous levels. After the boss level, a new background will be introduced. Backgrounds unlocked in play mode will be unlocked in doodle mode, and after the clearing of the 100th level, more tiles will be unlocked as well. Level codes can be output in Doodle mode and pasted into other instances of the game in any computer. Users can share levels among each other by sending Level Codes to enter in game.
+
+Try it out:
+[Pipeline3 WebGL](http://www.piggytek.com/Pipeline3/)
